@@ -5,7 +5,7 @@ import AdminLogin from './components/AdminLogin';
 import Navbar from './components/Navbar';
 import Signup from './components/Signup';
 import Profile from './components/Profile';
-import Update_profile from './components/update_profile';
+import Update_profile from './components/Update_profile';
 import Apply_for_job from './components/Apply_for_job';
 import View_worker_application from './components/View_worker_application';
 import Book_slot from './components/Book_slot';
