@@ -22,7 +22,7 @@ import Rejected_job_offers from './components/Rejected_job_offers';
 import Workers_info from './components/Workers_info';
 import User_profile from './components/User_profile';
 import Clients_info from './components/Clients_info';
-import Booking_form from './components/booking_form';
+import Booking_form from './components/Booking_form';
 import Completed_jobs from './components/Completed_jobs';
 import Admin_management from './components/Admin_management';
 import Allot_worker from './components/Allot_worker';
